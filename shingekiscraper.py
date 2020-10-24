@@ -1,5 +1,6 @@
 #! python3
 # shingeki.py - Download chosen SnK manga chapter
+# Web Scraper with (mostly) Yayorbitgum (https://github.com/yayorbitgum) 
 
 import requests, os, sys
 from bs4 import BeautifulSoup
